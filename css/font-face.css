@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'Encorpada Classic';
+    src: url('../fonts/EncorpadaClassic-Light.woff2') format('woff2'),
+        url('../fonts/EncorpadaClassic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encorpada Classic';
+    src: url('../fonts/EncorpadaClassic-LightItalic.woff2') format('woff2'),
+        url('../fonts/EncorpadaClassic-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encorpada Classic';
+    src: url('../fonts/EncorpadaClassic-Regular.woff2') format('woff2'),
+        url('../fonts/EncorpadaClassic-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encorpada Classic';
+    src: url('../fonts/EncorpadaClassic-RegularItalic.woff2') format('woff2'),
+        url('../fonts/EncorpadaClassic-RegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Encorpada Classic';
+    src: url('../fonts/EncorpadaClassic-SemiBold.woff2') format('woff2'),
+        url('../fonts/EncorpadaClassic-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encorpada Classic';
+    src: url('../fonts/EncorpadaClassic-Bold.woff2') format('woff2'),
+        url('../fonts/EncorpadaClassic-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('../fonts/AvenirNextLTPro-Regular.woff2') format('woff2'),
+        url('../fonts/AvenirNextLTPro-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('../AvenirNextLTPro-MediumCn.woff2') format('woff2'),
+        url('../AvenirNextLTPro-MediumCn.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('../fonts/AvenirNextLTPro-Demi.woff2') format('woff2'),
+        url('../fonts/AvenirNextLTPro-Demi.woff') format('woff');
+    font-weight: 650;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('../fonts/AvenirNextLTPro-Bold.woff2') format('woff2'),
+        url('../fonts/AvenirNextLTPro-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('../fonts/AvenirNextLTPro-HeavyCn.woff2') format('woff2'),
+        url('../fonts/AvenirNextLTPro-HeavyCn.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zeppelin 43';
+    src: url('../fonts/Zeppelin43.woff2') format('woff2'),
+        url('../fonts/Zeppelin43.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zeppelin 43';
+    src: url('../fonts/Zeppelin43-Bold.woff2') format('woff2'),
+        url('../fonts/Zeppelin43-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archer ExtraBlack';
+    src: url('ArcherExtraBlack.woff2') format('woff2'),
+        url('ArcherExtraBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archer Book';
+    src: url('Archer-Book.woff2') format('woff2'),
+        url('Archer-Book.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
